@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1627
     wikipedia: http://en.wikipedia.org/wiki/Louis_Tracy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34277#A-Mysterious-Disappearance
 gutenberg_issued: '2010-11-11'
 gutenberg_type: Text
 identifiers:
